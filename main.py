@@ -133,7 +133,8 @@ def Table1():
                 # h = pd.Series()
                 df.loc[len(df.index)] = [naceid,Nlen,maingamma,upgamma]
     df = df.sort(columns="Main event")
-    df.to_csv(path_or_buf='Table1.csv',index=False,sep ='\t',float_format='%.3f')
+    df['Observations'] = df['Observations'].astype(int)
+    df.to_csv(path_or_buf='Table1.csv',index=False,sep =',',float_format='%.3f')
                 # if Nlen>0:
                 #     writer.writerow({'NACE': naceid, 'Observations': Nlen,'Main event':'%.3f'%maingamma,'Up event':'%.3f'%upgamma})
                 # break
