@@ -1,0 +1,44 @@
+NACE,Industry,NoEE
+10,Coal and lignite mining,0
+11,Crude petroleum extraction,0.2
+27,Basic Metals,0.067
+90,Sewage and refuse,0.000 
+61,Water transport,1.000 
+23,Refining and coke,0.000 
+13,Metal ores mining,0.000 
+16,Tobacco manufacturing,1.000 
+40,Electricity and gas,0.077 
+70,Real estate,0.875 
+41,Water,0.000 
+60,Land transport,0.600 
+25,Rubber and plastics,0.667 
+72,Computer activities,0.818 
+35,Other transport,0.125 
+55,Hotels and restaurants,1.000 
+34,Motel vehicles,0.455 
+32,Radio and TV,0.583 
+31,Electrical machinery,0.167 
+52,Retail trade,0.842 
+45,Construction,0.357 
+33,Medical instruments,0.529 
+22,Publishing and printing,0.889 
+62,Air transport,0.800 
+21,Pulp and paper,0.200 
+15,Food manufacturing,0.905 
+74,Other business activities,0.536 
+67,Auxiliary financials,0.778 
+29,Machinery,0.111 
+24,Chemicals,0.342 
+65,Financial intermediation,0.833 
+18,Apparel manufacturing,1.000 
+64,Post and telecom,0.741 
+36,Furniture,0.333 
+66,Insurance,0.808 
+92,Recreational and culture,1.000 
+85,Health and social work,0.000 
+28,Fabricated metals,0.000 
+26,Nonmetallic manufacturing,0.000 
+51,Wholesale trade,0.286 
+63,Supporting transport,0.300 
+14,Other mining,0.000 
+71,Renting machinery,0.000
